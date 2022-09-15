@@ -6,16 +6,13 @@
 \alias{rsf-package}
 \title{rsf: Report of Statistical Findings in 'bookdown'}
 \description{
-A report of statistical findings (RSF) project
-    template is generated using a 'bookdown' format. 'YAML' fields can be
-    further customized. Additional helper functions provide extra features
-    to the RSF.
+A report of statistical findings (RSF) project template is generated using a 'bookdown' format. 'YAML' fields can be further customized. Additional helper functions provide extra features to the RSF.
 }
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/dchiu911/rsf}
-  \item \url{https://dchiu911.github.io/rsf}
+  \item \url{https://github.com/dchiu911/rsf/}
+  \item \url{https://dchiu911.github.io/rsf/}
   \item Report bugs at \url{https://github.com/dchiu911/rsf/issues}
 }
 
